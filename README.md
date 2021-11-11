@@ -5,7 +5,7 @@ This provides Niels Lohmann's excellent [json library](https://github.com/nlohma
 ## Installation
 
 ```
-remotes::install_github("nfultz/RcppJson")
+remotes::install_github("hazel-analytics/RcppJson")
 ```
 
 It can also theoretically be used by a package by adding `LinkingTo: RcppJson` to your DESCRIPTION file
